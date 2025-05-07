@@ -1,3 +1,15 @@
 # todo_app
 
-A new Flutter project.
+Для запуска :
+
+flutter pub get
+
+flutter run 
+
+Стек:
+BLoC
+Isar
+Shared preferences
+
+Доп фичи:
+Темная тема
